@@ -1,0 +1,7 @@
+logging==0.5.1.2
+time==1.0
+socketserver==3.6.1
+simplejpeg==1.6.4
+opencv-python==4.9.0.80
+http.server==0.0.1
+picamera2==0.3.10
